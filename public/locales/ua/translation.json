@@ -1,0 +1,15 @@
+{
+  "title": {
+    "ecafe": "Ексклюзив Кафе",
+    "language": "Мова"
+  },
+  "language": {
+    "en": "English",
+    "ua": "Українська"
+  },
+  "route": {
+    "home": "Головна",
+    "menu": "Меню",
+    "contacts": "Контакти"
+  }
+}
