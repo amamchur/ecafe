@@ -1,6 +1,6 @@
 {
   "title": {
-    "ecafe": "Exclusive Cafe",
+    "ecafe": "E.Cafe",
     "language": "Language"
   },
   "language": {
@@ -11,5 +11,9 @@
     "home": "Home",
     "menu": "Menu",
     "contacts": "Contacts"
+  },
+  "info": {
+    "address": "вулиця Одеська 3, Львів",
+    "phone": "+380xxxxxxxxx"
   }
 }
